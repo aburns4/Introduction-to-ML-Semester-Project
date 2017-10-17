@@ -1,0 +1,4 @@
+#Lucy
+Lucy is wearing a red vest.
+(X) Lucy has short brown hair and wearing a red vest.
+Lucy is wearing a red vest.

@@ -1,0 +1,4 @@
+#Alex
+Alex is pouring liquid from the kettle, then sets his cup on the counter.
+Alex is filling a cup from the kettle.
+ALEX  FILLING A CUP WITH LIQUID 

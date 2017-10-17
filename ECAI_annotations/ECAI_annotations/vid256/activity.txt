@@ -1,0 +1,4 @@
+#Alan
+(X) Alan is setting printer paper tray
+(X) Alan is using a copy machine
+(X) Alan Trying to Print the Card

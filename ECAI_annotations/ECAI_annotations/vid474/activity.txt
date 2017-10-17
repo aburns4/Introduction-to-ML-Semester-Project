@@ -1,0 +1,4 @@
+#Alex
+Alex grabbed a paper towel to wipe a utensil.
+(X) DRYING SOMETHING
+Alex grabbed a paper towel from the towel dispenser and is drying a utensil.

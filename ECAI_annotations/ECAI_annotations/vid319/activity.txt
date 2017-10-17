@@ -1,0 +1,4 @@
+#Lucy
+(X) Operates printer
+Lucy is looking at the printer screen
+Lucy is entering information on the printer screen.

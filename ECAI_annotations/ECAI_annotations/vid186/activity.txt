@@ -1,0 +1,4 @@
+#Alex
+Alex is opening the printer
+Alex is working with a copy machine
+(X) Alex is checking if the scanner page is fixed and printing.

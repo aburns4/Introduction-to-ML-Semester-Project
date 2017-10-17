@@ -1,0 +1,4 @@
+#Ollie
+Ollie is seeing the display of the coping machine.
+Ollie is printing a document on the printer.
+Ollie is using the printer to make a copy.

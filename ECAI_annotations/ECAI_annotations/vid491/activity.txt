@@ -1,0 +1,4 @@
+#Dave
+Dave is getting something out of the refrigerator.
+Dave is opening the fridge.
+Dave is looking in the refrigerator.

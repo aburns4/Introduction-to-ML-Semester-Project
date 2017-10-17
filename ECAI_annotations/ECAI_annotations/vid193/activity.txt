@@ -1,0 +1,4 @@
+#the cleaner
+The cleaner is filling a container in the sink and adding soap to the filled container.
+The cleaner is filling a bucket then pouring some cleaner in it.
+The cleaner is at the sink filling water into a bucket.

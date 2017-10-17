@@ -1,0 +1,4 @@
+#Bruno
+Bruno is washing cups at the sink.
+(X) Bruno is turning the water on.
+Bruno is washing dishes.

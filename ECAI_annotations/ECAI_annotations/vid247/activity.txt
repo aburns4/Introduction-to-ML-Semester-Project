@@ -1,0 +1,4 @@
+#Eris
+Eris is taking a copy from the printer paper tray.
+Eris removes paper from the printer, and verifies that everything printed.
+Eris is retrieving a copy from the copy machine.

@@ -1,0 +1,4 @@
+#Lucy
+Lucy is getting water.
+(X) Lucy is getting coffee from the coffee machine.
+Lucy is getting water from the cooler.

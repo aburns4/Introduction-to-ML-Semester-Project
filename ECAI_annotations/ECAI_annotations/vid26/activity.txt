@@ -1,0 +1,4 @@
+#Jennifer
+Jennifer is getting paper.
+Jennifer is retrieving paper from the printer paper tray,
+Jennifer removed a sheet of paper from the printer tray.

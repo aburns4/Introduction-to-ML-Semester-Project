@@ -1,0 +1,9 @@
+@inproceedings{Duckworth:2016,
+  title={Unsupervised Activity Recognition using Latent Semantic Analysis on a Mobile Robot},
+  author={Duckworth, Paul and Alomari, Muhannad and Gatsoulis, Yiannis and Hogg, David and Cohn, Anthony},
+  booktitle={22nd European Conference on Artificial Intelligence {(ECAI)}},
+  year={2016},
+  address = {The Hague, Holland},
+  abstract = {We show that by using qualitative spatio-temporal abstraction methods, we can learn common human movements and activities from long term observation by a mobile robot. Our novel framework encodes multiple qualitative abstractions of RGBD video from detected activities performed by a human as encoded by a skeleton pose estimator. 
+Analogously to informational retrieval in text corpora, we use Latent Semantic Analysis (LSA) to uncover latent, semantically meaningful, concepts in an unsupervised manner, where the vocabulary is occurrences of qualitative spatio-temporal features extracted from video clips, and the discovered concepts are regarded as activity classes. The  limited field of view of a mobile robot represents a particular challenge, owing to the obscured, partial and noisy human detections and skeleton pose-estimates from its environment. We show that the abstraction into a qualitative space helps the robot to generalise and compare multiple noisy and partial observations in a real world dataset and that a vocabulary of latent activity classes (expressed using qualitative features) can be recovered.}
+}

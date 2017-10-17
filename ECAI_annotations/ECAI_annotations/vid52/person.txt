@@ -1,0 +1,4 @@
+#Alan
+Alan is tall and is wearing a bright blue t-shirt and black shorts.
+Alan is tall and wearing black shorts and a blue t-shirt.
+(X) Average height, brown hair, blue shirt, black shorts, black shoes, white socks, average weight.

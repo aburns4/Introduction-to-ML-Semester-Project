@@ -1,0 +1,4 @@
+#Alan
+Alan is putting something in the fridge.
+(X) Alan is opening drawer
+Alan put something in the fridge.

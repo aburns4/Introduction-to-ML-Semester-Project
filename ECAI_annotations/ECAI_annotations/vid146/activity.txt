@@ -1,0 +1,4 @@
+#Alan
+Alan rinses his cup with water from the kettle, laughs, then fills his mug in the sink.
+Alan is taking water from kettle.
+Alan is pouring water from kettle.

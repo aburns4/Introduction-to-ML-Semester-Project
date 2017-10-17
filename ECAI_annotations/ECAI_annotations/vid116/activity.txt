@@ -1,0 +1,4 @@
+#Alan
+Alan is reaching for the tea and coffee container.
+(X) Alan is washing the cup.
+Alan is retrieving coffee.

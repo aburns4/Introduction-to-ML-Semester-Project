@@ -1,0 +1,4 @@
+#Ellie
+Ellie is getting water from kettle
+Ellie is filling up her mug from the kettle
+Ellie is getting water from the kettle.

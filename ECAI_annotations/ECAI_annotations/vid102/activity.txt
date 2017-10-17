@@ -1,0 +1,4 @@
+#Bruno
+(X) Bruno is getting coffee ground to make coffee.
+(X) Bruno is preparing some tea.
+(X) Bruno is rinsing a dish in the sink.

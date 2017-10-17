@@ -1,0 +1,4 @@
+#Susan
+Susan is opening the fridge.
+(X) Susan looking for something in the fridge.
+Susan is getting something out of the fridge.

@@ -1,0 +1,4 @@
+#the cleaner
+The cleaner is removing something from the wall, and throwing it in the trash.
+Cleaner Droped cover into dust bin
+The cleaner is throwing something in the garbage can.
